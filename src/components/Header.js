@@ -116,7 +116,7 @@ class Header extends Component {
             <img
               className="logo"
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTD9At_yEU8Fl_xgUT5GEfA1PAhar3nEFiG9B_ArWiAiWVDHEU"
-              alt="Veggy Brand Logo"
+              alt="Brand Logo"
             />
           </div>
 
