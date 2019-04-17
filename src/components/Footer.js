@@ -5,26 +5,26 @@ const Footer = props => {
     <footer>
       <p className="footer-links">
         <a
-          href="https://github.com/sivadass/react-shopping-cart"
+          href="https://github.com/Deepak003/ShopppingCart"
           target="_blank"
         >
           View Source on Github
         </a>
         <span> / </span>
-        <a href="mailto:contact@sivadass.in" target="_blank">
+        <a href="mailto:contact@contact.in" target="_blank">
           Need any help?
         </a>
         <span> / </span>
-        <a href="https://twitter.com/NSivadass" target="_blank">
+        <a href="https://twitter.com/" target="_blank">
           Say Hi on Twitter
         </a>
         <span> / </span>
-        <a href="https://sivadass.in" target="_blank">
+        <a href="" target="_blank">
           Read My Blog
         </a>
       </p>
       <p>
-        &copy; 2017 <strong>Veggy</strong> - Organic Green Store
+        &copy; 2019 <strong>e-Shopping</strong> - Organic Green Store
       </p>
     </footer>
   );
